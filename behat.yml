@@ -1,0 +1,4 @@
+default:
+  context:
+    parameters:
+      browser: firefox-xvfb
